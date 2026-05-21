@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/student/opencv_project/lab_06/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
